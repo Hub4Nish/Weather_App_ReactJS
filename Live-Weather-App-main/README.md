@@ -56,8 +56,7 @@ This app fetches weather data using the [OpenWeather API](https://openweathermap
 - **`src/App.js`**: Main component that renders other components.
 - **`src/App.css`**: Styles for the app.
 
-## Contact
-If you have any questions or feedback, feel free to reach out at [mihirsahu36@gmail.com](mailto:mihirsahu36@gmail.com).
+
 
 ---
 
