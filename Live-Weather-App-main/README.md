@@ -1,6 +1,7 @@
 # Live Weather App using React.js
 
-![Live Weather App](./weather.png)
+![Live Weather App]![weather](https://github.com/user-attachments/assets/e7c74e5e-189c-436b-b19b-c472031ef615)
+
 
 ## Overview
 This project is a Live Weather App developed using React.js. It displays the current location's time, day, date, month, year, and temperature. Users can also search for a specific city to retrieve detailed weather information, including temperature, humidity, visibility, wind speed, and a forecast icon indicating the weather condition. The app utilizes the OpenWeather API to fetch genuine weather data.
